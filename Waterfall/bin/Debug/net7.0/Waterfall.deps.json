@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Waterfall/1.0.0": {
+        "dependencies": {
+          "Waterfall.Core": "1.0.0",
+          "Waterfall.UI": "1.0.0"
+        },
+        "runtime": {
+          "Waterfall.dll": {}
+        }
+      },
+      "Waterfall.Core/1.0.0": {
+        "runtime": {
+          "Waterfall.Core.dll": {}
+        }
+      },
+      "Waterfall.UI/1.0.0": {
+        "dependencies": {
+          "Waterfall.Core": "1.0.0"
+        },
+        "runtime": {
+          "Waterfall.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Waterfall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Waterfall.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Waterfall.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\dev\Waterfall\Waterfall.UI\bin\Debug\net7.0\Waterfall.UI.deps.json
+E:\dev\Waterfall\Waterfall.UI\bin\Debug\net7.0\Waterfall.UI.dll
+E:\dev\Waterfall\Waterfall.UI\bin\Debug\net7.0\Waterfall.UI.pdb
+E:\dev\Waterfall\Waterfall.UI\bin\Debug\net7.0\Waterfall.Core.dll
+E:\dev\Waterfall\Waterfall.UI\bin\Debug\net7.0\Waterfall.Core.pdb
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.csproj.AssemblyReference.cache
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.AssemblyInfoInputs.cache
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.AssemblyInfo.cs
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.csproj.CoreCompileInputs.cache
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.csproj.CopyComplete
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.dll
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\refint\Waterfall.UI.dll
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\Waterfall.UI.pdb
+E:\dev\Waterfall\Waterfall.UI\obj\Debug\net7.0\ref\Waterfall.UI.dll

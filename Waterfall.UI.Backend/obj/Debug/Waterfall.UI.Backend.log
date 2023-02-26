@@ -1,0 +1,7 @@
+﻿E:\Programs\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (Waterfall.UI.Backend.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Waterfall.UI.Backend.vcxproj -> E:\dev\Waterfall\Waterfall.UI.Backend\bin\Debug\Waterfall.UI.Backend.dll
+  E:\dev\Waterfall\Waterfall.UI.Backend\bin\Debug\Waterfall.UI.Backend.dll
+  E:\dev\Waterfall\Waterfall.UI.Backend\bin\Debug\Waterfall.UI.Backend.exp
+  E:\dev\Waterfall\Waterfall.UI.Backend\bin\Debug\Waterfall.UI.Backend.lib
+  E:\dev\Waterfall\Waterfall.UI.Backend\bin\Debug\Waterfall.UI.Backend.pdb
+  4 File(s) copied

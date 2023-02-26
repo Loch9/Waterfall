@@ -1,0 +1,12 @@
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.csproj.AssemblyReference.cache
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.AssemblyInfoInputs.cache
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.AssemblyInfo.cs
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.csproj.CoreCompileInputs.cache
+E:\dev\Waterfall\Waterfall.Core\bin\Debug\net7.0\Waterfall.Core.deps.json
+E:\dev\Waterfall\Waterfall.Core\bin\Debug\net7.0\Waterfall.Core.dll
+E:\dev\Waterfall\Waterfall.Core\bin\Debug\net7.0\Waterfall.Core.pdb
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.dll
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\refint\Waterfall.Core.dll
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\Waterfall.Core.pdb
+E:\dev\Waterfall\Waterfall.Core\obj\Debug\net7.0\ref\Waterfall.Core.dll
