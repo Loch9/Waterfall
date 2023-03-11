@@ -1,0 +1,58 @@
+﻿Dockspace[default]
+{
+	MenuBar
+	{
+		Menu "File"
+		{
+			Menu "New"
+			{
+				// To have a menu item call c++ code. Works with other things as well
+				MenuItem<NewProject> "New Project" "Ctrl+Shift+N"
+				// or if it has parameters
+				MenuItem<NewProject(12)> "New Project"
+			}
+		}
+	}
+	Begin "Hello World"
+	{
+		Text "Hello!"
+	}
+}
+
+...{
+
+void NewProject()
+{
+	// Example C++ code
+	string path = NewFileDialog("*.wrpj");
+	m_Project = Project::Create(path);
+	Open(m_Project);
+}
+
+void NewProject(int a)
+{
+	// Parameter
+}
+
+}
+
+/*custom:
+{
+	style[Colour](WindowBg: {0.23, 0.23, 0.23, 1.0}; TextColour: {1.0, 1.0, 1.0, 1.0})
+	// style((Style)[WindowBg: {0.23, 0.23, 0.23, 1.0}; TextColour: {1.0, 1.0, 1.0, 1.0}], (Colour)[])
+}*/
+
+/*
+void ImGuiRender()
+{
+	ImGui::Begin("Dockspace");
+	// [custom] dockspace style code
+	ImGui::DockSpace(id);
+
+	ImGui::Begin("Hello World");
+	ImGui::Text("Hello!");
+	ImGui::End();
+
+	ImGui::End();
+}
+*/

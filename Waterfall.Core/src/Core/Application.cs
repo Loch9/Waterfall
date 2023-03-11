@@ -107,7 +107,7 @@ namespace Waterfall.Core
         }
 
         [UnmanagedCallersOnly(CallConvs = new[] { typeof(CallConvCdecl) })]
-        public static unsafe void LoggerCallback(int* message, int level, int length)
+        public static unsafe void LoggerCallback(short* message, int level, int length)
         {
             string str = "";
             for (int i = 0; i < length; i++)

@@ -1,0 +1,15 @@
+E:\dev\Waterfall\Tools\CompileUI\bin\Debug\net7.0\CompileUI.exe
+E:\dev\Waterfall\Tools\CompileUI\bin\Debug\net7.0\CompileUI.deps.json
+E:\dev\Waterfall\Tools\CompileUI\bin\Debug\net7.0\CompileUI.runtimeconfig.json
+E:\dev\Waterfall\Tools\CompileUI\bin\Debug\net7.0\CompileUI.dll
+E:\dev\Waterfall\Tools\CompileUI\bin\Debug\net7.0\CompileUI.pdb
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.csproj.AssemblyReference.cache
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.AssemblyInfoInputs.cache
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.AssemblyInfo.cs
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.csproj.CoreCompileInputs.cache
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.dll
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\refint\CompileUI.dll
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.pdb
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\CompileUI.genruntimeconfig.cache
+E:\dev\Waterfall\Tools\CompileUI\obj\Debug\net7.0\ref\CompileUI.dll

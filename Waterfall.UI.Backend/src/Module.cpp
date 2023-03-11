@@ -17,7 +17,7 @@ void (*UpdateCallback)();
 void (*ShutdownCallback)();
 void (*ImGuiRenderCallback)();
 
-void (*LogCallback)(int*, int, int);
+void (*LogCallback)(short*, int, int);
 
 void (*CreateWindowResizeEvent)(int, int);
 void (*CreateWindowCloseEvent)();
@@ -44,7 +44,7 @@ enum LogLevel
 
 void Log(const char* message, LogLevel level)
 {
-	int* array = new int[strlen(message)];
+	short* array = new short[strlen(message)];
 	for (int i = 0; i < strlen(message); i++)
 		array[i] = message[i];
 	LogCallback(array, (int)level, (int)strlen(message));
@@ -178,7 +178,7 @@ wfapi void SetImGuiRenderCallback(void (*callback)())
 	ImGuiRenderCallback = callback;
 }
 
-wfapi void SetLogCallback(void (*callback)(int*, int, int))
+wfapi void SetLogCallback(void (*callback)(short*, int, int))
 {
 	LogCallback = callback;
 }

@@ -1,5 +1,5 @@
-﻿using Waterfall.UI;
-using Waterfall.Core;
+﻿using Waterfall.Core;
+using Waterfall.UI.Module;
 
 namespace Waterfall
 {

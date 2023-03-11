@@ -69,7 +69,7 @@
       <ImportLibrary>bin\Debug\Waterfall.UI.Backend.lib</ImportLibrary>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy $(ProjectDir)bin\Debug $(SolutionDir)Waterfall\bin\Debug</Command>
+      <Command>xcopy $(ProjectDir)bin\Debug $(SolutionDir)Waterfall\bin\Debug\net7.0 /y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
